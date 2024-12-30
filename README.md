@@ -14,3 +14,6 @@ Real estate price prediction web application built using Flask, Python, and mach
 - HTML/CSS/JavaScript for UI
 - NGINX for deploying
 - AWS EC2 Instance for Hosting the WebApp
+
+
+  **Accuracy of the model ~85%**
