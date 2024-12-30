@@ -17,3 +17,5 @@ Real estate price prediction web application built using Flask, Python, and mach
 
 
   **Accuracy of the model ~85%**
+
+  Link for AWS hosted web-app: http://ec2-16-171-14-132.eu-north-1.compute.amazonaws.com/
