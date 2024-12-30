@@ -11,3 +11,5 @@ Sklearn for Model Building
 Jupyter Notebook, Visual Studio Code and PyCharm as IDE
 Python Flask for HTTP Server
 HTML/CSS/JavaScript for UI
+NGINX for deploying
+AWS EC2 Instance for Hosting the WebApp
