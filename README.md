@@ -10,8 +10,8 @@ Real estate price prediction web application built using Flask, Python, and mach
 - Matplotlib for Data Visualization
 - Sklearn for Model Building
 - Jupyter Notebook, Visual Studio Code, and PyCharm as IDE
-- Python Flask for HTTP Server
-- HTML/CSS/JavaScript for UI
+- Python Flask for HTTP Server (BackEnd)
+- HTML/CSS/JavaScript for building the FrontEnd
 - NGINX for deploying
 - AWS EC2 Instance for Hosting the WebApp
 
